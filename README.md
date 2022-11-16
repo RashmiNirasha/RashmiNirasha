@@ -1,3 +1,5 @@
+![Design and Development](https://github.com/RashmiNirasha/RashmiNirasha/blob/97caca7a4afb631a9f899bddd3466e5b1270ac24/Grey%20and%20White%20Minimalist%20Twitter%20Header.png)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=RashmiNirasha&left_color=blue&right_color=red)
 
 <h1 align="center">Hi 👋, I'm Rashmi Nirasha Gunawadana</h1>
