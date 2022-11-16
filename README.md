@@ -1,11 +1,15 @@
-![MasterHead](https://www.canva.com/design/DAFSIAEiyxc/view)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=RashmiNirasha&left_color=blue&right_color=red)
 
 <h1 align="center">Hi 👋, I'm Rashmi Nirasha Gunawadana</h1>
-<h3 align="center">A passionate Cloud Developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Cloud Developer from Sri Lanka</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-- 🌱 I’m currently learning **BSc Information Systems Degree**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+  🌱 I’m currently learning **BSc Information Systems Degree** at UCSC
 
 - 👨‍💻 View my profile site [https://rashminirasha.github.io/RashmiGunawardana.github.io/](https://rashminirasha.github.io/RashmiGunawardana.github.io/)
 
@@ -14,9 +18,6 @@
 - 📫 How to reach me **nirashagunawardana9@gmail.com**
 
 - 📄 Reach me via LinkedIn [https://www.linkedin.com/in/rashmi-gunawardana-7106761ab/](https://www.linkedin.com/in/rashmi-gunawardana-7106761ab/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
