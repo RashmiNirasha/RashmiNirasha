@@ -13,7 +13,7 @@
 
   🌱 I’m currently learning **BSc Information Systems Degree** at UCSC
 
-- 👨‍💻 View my profile site [https://rashminirasha.github.io/RashmiGunawardana.github.io/](https://rashminirasha.github.io/RashmiGunawardana.github.io/)
+<!-- - 👨‍💻 View my profile site [https://rashminirasha.github.io/RashmiGunawardana.github.io/](https://rashminirasha.github.io/RashmiGunawardana.github.io/) -->
 
 - 📝 I regularly write articles on [https://medium.com/@nirashagunawardana9](https://medium.com/@nirashagunawardana9)
 
